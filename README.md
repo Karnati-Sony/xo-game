@@ -1,19 +1,21 @@
  🎮 Tic-Tac-Toe AI – The Unbeatable Challenge
-
-This project is a **modern Tic-Tac-Toe game** built entirely using **HTML, CSS, and Vanilla JavaScript**, featuring an **AI opponent powered by the Minimax algorithm**. The design is clean, interactive, and responsive, making the classic game feel fresh and fun.
+ 
+This project is a Tic-Tac-Toe game built using HTML, CSS, and JavaScript, featuring an AI opponent with multiple difficulty levels. The design is clean, responsive, and engaging, with sound effects, animations, and game history tracking.
 
 Think you can beat the AI? Try your luck – but beware: on **Hard Mode**, the AI is nearly impossible to defeat! 🤖🔥
 
 
 🚀 Features
-🟢 **Difficulty Levels** – Easy (random), Medium (semi-smart), Hard (Minimax – unbeatable).
-✖️ **Choose Your Symbol** – Play as **X** or **O**.
-📊 **Game Stats** – Tracks **Wins, Losses, and Draws** in real-time.
-📜 **Recent Game History** – Shows outcomes with **timestamps & difficulty level**.
-🕹️ **Interactive UI** – Smooth animations, hover effects, and confetti when you win! 🎉
-🎵 **Sound Effects** – Click feedback for every move.
-💡 **Hint & Undo** – Learn strategy and retry moves.
-💾 **Local Storage Support** – Stats and history persist even after page reloads.
+
+🟢 Difficulty Modes – Easy, Medium, Hard .
+✖️ Play as X or O – Choose your symbol before starting.
+📊 Performance Tracking – Real-time display of Wins, Losses, and Draws.
+📜 Game History – Stores past results with timestamps and difficulty levels.
+💾 Persistent Data – Stats and history saved using Local Storage.
+💡 Extra Options – Includes Hint, Undo, and Restart for better gameplay.
+🎵 Sound Effects – Button clicks and move feedback.
+🎉 Confetti Celebration – Animated confetti when the player wins.
+🕹️ Responsive UI – Works smoothly across different screen sizes.
 
 🛠️ Tech Stack
 * HTML5 → Structure & game layout
